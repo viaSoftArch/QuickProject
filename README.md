@@ -1,5 +1,6 @@
 This project is a gateway to learn about api's and web development
-Goals
+
+Goals:
  - Usage of one or more api
  - Creation of simple backend
  - Development of programming skills via backend
